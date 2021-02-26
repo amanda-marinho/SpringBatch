@@ -2,7 +2,7 @@ HELP.md
 !**/src/main/**
 !**/src/test/**
 .settings/*
-.data/*
+data/*
 
 ### Java ###
 # Compiled class file
