@@ -4,6 +4,7 @@ HELP.md
 .settings/*
 data/*
 mvnw
+logs/*
 
 ### Java ###
 # Compiled class file
