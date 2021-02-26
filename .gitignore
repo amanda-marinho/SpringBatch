@@ -3,6 +3,7 @@ HELP.md
 !**/src/test/**
 .settings/*
 data/*
+mvnw
 
 ### Java ###
 # Compiled class file
@@ -41,7 +42,6 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/*
-mnvw
 
 ### STS ###
 .apt_generated
